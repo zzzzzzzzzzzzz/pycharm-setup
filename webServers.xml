@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8f34ddb2-62b9-40fb-b817-9b21d2910971" name="cb.skoltech.ru" url="http://cb.skoltech.ru">
+        <fileTransfer host="cb.skoltech.ru" port="22" rootFolder="/home/ddenisenko" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

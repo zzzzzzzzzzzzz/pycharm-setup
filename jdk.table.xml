@@ -1,0 +1,905 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.12 (/usr/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="/usr/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1247972723" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at ~/MyEnv/DjangoProjects/print-service/env" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="$USER_HOME$/MyEnv/DjangoProjects/print-service/env/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/MyEnv/DjangoProjects/print-service/env/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/DjangoProjects/print-service/env/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/DjangoProjects/print-service/env/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/DjangoProjects/print-service/env/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1390491889" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at ~/MyEnv/DjangoProjects/highloadcup/env" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="$USER_HOME$/MyEnv/DjangoProjects/highloadcup/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/MyEnv/DjangoProjects/highloadcup/env/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/DjangoProjects/highloadcup/env/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/DjangoProjects/highloadcup/env/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/DjangoProjects/highloadcup/env/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1005110135" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/MyEnv/DjangoProjects/highloadcup" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 (/usr/bin/python3.5)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="/usr/bin/python3.5" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.local/lib/python3.5/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python3.5/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python3/dist-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1247971764" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at ~/MyEnv/scrapers/env" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="$USER_HOME$/MyEnv/scrapers/env/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/MyEnv/scrapers/env/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/scrapers/env/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/scrapers/env/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/scrapers/env/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1155236277" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at ~/MyEnv/scrapers/with_scrapy/ya_search/env" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="$USER_HOME$/MyEnv/scrapers/with_scrapy/ya_search/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/MyEnv/scrapers/with_scrapy/ya_search/env/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/scrapers/with_scrapy/ya_search/env/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/scrapers/with_scrapy/ya_search/env/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/scrapers/with_scrapy/ya_search/env/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1263720210" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/MyEnv/scrapers/with_scrapy/ya_search" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at ~/MyEnv/DjangoProjects/highloadcup/env (1)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="$USER_HOME$/MyEnv/DjangoProjects/highloadcup/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/MyEnv/DjangoProjects/highloadcup/env/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/DjangoProjects/highloadcup/env/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/DjangoProjects/highloadcup/env/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/DjangoProjects/highloadcup/env/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1005110135" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/MyEnv/DjangoProjects/highloadcup" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at ~/MyEnv/scrapers/with_scrapy/basic_phishing_save/env" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="$USER_HOME$/MyEnv/scrapers/with_scrapy/basic_phishing_save/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/MyEnv/scrapers/with_scrapy/basic_phishing_save/env/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/scrapers/with_scrapy/basic_phishing_save/env/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/scrapers/with_scrapy/basic_phishing_save/env/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/scrapers/with_scrapy/basic_phishing_save/env/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/2120716478" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/MyEnv/scrapers/with_scrapy/basic_phishing_save" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at ~/MyEnv/DjangoProjects/track-phish-web/env" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="$USER_HOME$/MyEnv/DjangoProjects/track-phish-web/env/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/MyEnv/DjangoProjects/track-phish-web/env/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/DjangoProjects/track-phish-web/env/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/DjangoProjects/track-phish-web/env/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/DjangoProjects/track-phish-web/env/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1610918119" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/MyEnv/other/phish_proj/env" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/MyEnv/other/phish_proj/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/phish_proj/env/lib/python3.5/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/MyEnv/other/phish_proj/env/lib/python3.5/site-packages/setuptools-28.8.0-py3.5.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/phish_proj/env/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-1177047984" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/MyEnv/other/phish_proj/phishing_urls" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/MyEnv/scrapers/with_scrapy/basic_phishing_save/env" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/MyEnv/scrapers/with_scrapy/basic_phishing_save/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/scrapers/with_scrapy/basic_phishing_save/env/lib/python3.5/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/MyEnv/scrapers/with_scrapy/basic_phishing_save/env/lib/python3.5/site-packages/setuptools-28.8.0-py3.5.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/scrapers/with_scrapy/basic_phishing_save/env/lib/python3.5/site-packages/pip-9.0.1-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/2120716478" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/MyEnv/scrapers/with_scrapy/basic_phishing_save" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at ~/MyEnv/dm/env" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="$USER_HOME$/MyEnv/dm/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/MyEnv/dm/env/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dm/env/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dm/env/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dm/env/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1477918236" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/MyEnv/dm" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/PycharmProjects/sync-printbox-test/env" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/PycharmProjects/sync-printbox-test/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/sync-printbox-test/env/lib/python3.5/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-991198275" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/sync-printbox-test" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at ~/MyEnv/dm/ddenisenko/env" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="$USER_HOME$/MyEnv/dm/ddenisenko/env/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/MyEnv/dm/ddenisenko/env/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dm/ddenisenko/env/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dm/ddenisenko/env/local/lib/python2.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/MyEnv/dm/ddenisenko/env/local/lib/python2.7/site-packages/unicodecsv-0.14.1-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dm/ddenisenko/env/local/lib/python2.7/site-packages/requests-2.19.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dm/ddenisenko/env/local/lib/python2.7/site-packages/urllib3-1.23-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dm/ddenisenko/env/local/lib/python2.7/site-packages/idna-2.7-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dm/ddenisenko/env/local/lib/python2.7/site-packages/chardet-3.0.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dm/ddenisenko/env/local/lib/python2.7/site-packages/python_dm-1.46-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dm/ddenisenko/env/lib/python2.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/MyEnv/dm/ddenisenko/env/lib/python2.7/site-packages/unicodecsv-0.14.1-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dm/ddenisenko/env/lib/python2.7/site-packages/requests-2.19.1-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dm/ddenisenko/env/lib/python2.7/site-packages/urllib3-1.23-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dm/ddenisenko/env/lib/python2.7/site-packages/idna-2.7-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dm/ddenisenko/env/lib/python2.7/site-packages/chardet-3.0.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dm/ddenisenko/env/lib/python2.7/site-packages/python_dm-1.46-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/420888284" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/MyEnv/other/printbox-point/env" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/MyEnv/other/printbox-point/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/printbox-point/env/lib/python3.5/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1949051365" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/MyEnv/other/printbox-point" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/MyEnv/other/raiffeisen/env" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/MyEnv/other/raiffeisen/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/raiffeisen/env/lib/python3.5/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-494272344" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/MyEnv/other/raiffeisen" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/MyEnv/other/super-resolution-torch/env" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/MyEnv/other/super-resolution-torch/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/super-resolution-torch/env/lib/python3.5/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/13808313" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/MyEnv/other/super-resolution-torch" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/MyEnv/other/shabilka/env" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/MyEnv/other/shabilka/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/MyEnv/other/shabilka/env/lib/python3.5/site-packages/shabilka-1.0.0-py3.5.egg!/" type="simple" />
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/shabilka/env/lib/python3.5/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-2034739209" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/MyEnv/other/shabilka" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.12 virtualenv at ~/MyEnv/dmflow/env" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="$USER_HOME$/MyEnv/dmflow/env/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/local/lib/python2.7/site-packages/python_dm-1.38-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/local/lib/python2.7/site-packages/requests-2.19.1-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/MyEnv/dmflow/env/local/lib/python2.7/site-packages/unicodecsv-0.14.1-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/local/lib/python2.7/site-packages/luigi-2.7.8-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/local/lib/python2.7/site-packages/boltons-18.0.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/local/lib/python2.7/site-packages/urllib3-1.23-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/local/lib/python2.7/site-packages/idna-2.7-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/local/lib/python2.7/site-packages/chardet-3.0.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/local/lib/python2.7/site-packages/certifi-2018.8.24-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/local/lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/local/lib/python2.7/site-packages/python_daemon-2.2.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/local/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/local/lib/python2.7/site-packages/docutils-0.14-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/local/lib/python2.7/site-packages/lockfile-0.12.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/local/lib/python2.7/site-packages/backports_abc-0.5-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/local/lib/python2.7/site-packages/singledispatch-3.4.0.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/local/lib/python2.7/site-packages/six-1.11.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/lib/python2.7/site-packages/python_dm-1.38-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/lib/python2.7/site-packages/requests-2.19.1-py2.7.egg" type="simple" />
+            <root url="jar://$USER_HOME$/MyEnv/dmflow/env/lib/python2.7/site-packages/unicodecsv-0.14.1-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/lib/python2.7/site-packages/luigi-2.7.8-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/lib/python2.7/site-packages/boltons-18.0.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/lib/python2.7/site-packages/urllib3-1.23-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/lib/python2.7/site-packages/idna-2.7-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/lib/python2.7/site-packages/chardet-3.0.4-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/lib/python2.7/site-packages/certifi-2018.8.24-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/lib/python2.7/site-packages/enum34-1.1.6-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/lib/python2.7/site-packages/python_daemon-2.2.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/lib/python2.7/site-packages/tornado-4.5.3-py2.7-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/lib/python2.7/site-packages/docutils-0.14-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/lib/python2.7/site-packages/lockfile-0.12.2-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/lib/python2.7/site-packages/backports_abc-0.5-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/lib/python2.7/site-packages/singledispatch-3.4.0.3-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/dmflow/env/lib/python2.7/site-packages/six-1.11.0-py2.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/92293901" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/MyEnv/other/smartgui/env" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/MyEnv/other/smartgui/env/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/smartgui/env/lib/python3.5/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1350823937" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/MyEnv/other/smartgui/env (1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/MyEnv/other/smartgui/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/smartgui/env/lib/python3.5/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-736311628" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/MyEnv/other/printbox-bot-handler/env" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/MyEnv/other/printbox-bot-handler/env/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/printbox-bot-handler/env/lib/python3.5/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-123894110" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/MyEnv/other/gift-recommendation/env" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/MyEnv/other/gift-recommendation/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/gift-recommendation/env/lib/python3.5/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-102782642" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/MyEnv/other/gift-recommendation" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/MyEnv/other/skoltech/intro-to-blockchain/project/env" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/MyEnv/other/skoltech/intro-to-blockchain/project/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/skoltech/intro-to-blockchain/project/env/lib/python3.5/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1276887131" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/MyEnv/other/skoltech/intro-to-blockchain/project" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5.2 virtualenv at ~/MyEnv/other/skoltech/neuro-ml/env" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="$USER_HOME$/MyEnv/other/skoltech/neuro-ml/env/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/skoltech/neuro-ml/env/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/1335472527" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.8 virtualenv at ~/MyEnv/other/skoltech/neuro-ml/env" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.9" />
+      <homePath value="$USER_HOME$/MyEnv/other/skoltech/neuro-ml/env/bin/python3.6" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.6" type="simple" />
+            <root url="file:///usr/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/skoltech/neuro-ml/env/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/skoltech/neuro-ml/env/lib/python3.6/site-packages/deep_pipe-0.0.7.post1-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/skoltech/neuro-ml/env/lib/python3.6/site-packages/resource_manager-0.10.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/skoltech/neuro-ml/env/lib/python3.6/site-packages/imageio-2.5.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/skoltech/neuro-ml/env/lib/python3.6/site-packages/scikit_image-0.15.0-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/skoltech/neuro-ml/env/lib/python3.6/site-packages/networkx-2.3-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/skoltech/neuro-ml/env/lib/python3.6/site-packages/matplotlib-3.1.1-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/skoltech/neuro-ml/env/lib/python3.6/site-packages/PyWavelets-1.0.3-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/skoltech/neuro-ml/env/lib/python3.6/site-packages/pyparsing-2.4.2-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/skoltech/neuro-ml/env/lib/python3.6/site-packages/kiwisolver-1.1.0-py3.6-linux-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/skoltech/neuro-ml/env/lib/python3.6/site-packages/cycler-0.10.0-py3.6.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/780039500" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.5 (optic-nerve-tumors)" />
+      <type value="Python SDK" />
+      <version value="Python 3.5.2" />
+      <homePath value="$USER_HOME$/MyEnv/other/skoltech/neuro-ml-projects/optic-nerve-tumors/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.5" type="simple" />
+            <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python3.5/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/skoltech/neuro-ml-projects/optic-nerve-tumors/venv/lib/python3.5/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/MyEnv/other/skoltech/neuro-ml-projects/optic-nerve-tumors/venv/lib/python3.5/site-packages/setuptools-40.8.0-py3.5.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/skoltech/neuro-ml-projects/optic-nerve-tumors/venv/lib/python3.5/site-packages/pip-19.0.3-py3.5.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-2142202302" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/MyEnv/other/skoltech/neuro-ml-projects/optic-nerve-tumors" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (optic-nerve-tumors)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="$USER_HOME$/MyEnv/other/skoltech/neuro-ml-projects/optic-nerve-tumors/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///usr/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/skoltech/neuro-ml-projects/optic-nerve-tumors/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/MyEnv/other/skoltech/neuro-ml-projects/optic-nerve-tumors/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/skoltech/neuro-ml-projects/optic-nerve-tumors/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/skoltech/neuro-ml-projects/optic-nerve-tumors/deep_pipe" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-2142202302" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/MyEnv/other/skoltech/neuro-ml-projects/optic-nerve-tumors" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (printbox_vk_bot)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="$USER_HOME$/MyEnv/other/printbox_vk_bot/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///usr/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/printbox_vk_bot/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/MyEnv/other/printbox_vk_bot/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/printbox_vk_bot/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-1855839396" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/MyEnv/other/printbox_vk_bot" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (head-cs-server)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.4" />
+      <homePath value="$USER_HOME$/MyEnv/other/skoltech/neuro-ml-projects/head-cs-server/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.7" type="simple" />
+            <root url="file:///usr/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/skoltech/neuro-ml-projects/head-cs-server/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/MyEnv/other/skoltech/neuro-ml-projects/head-cs-server/venv/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/skoltech/neuro-ml-projects/head-cs-server/venv/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/MyEnv/other/skoltech/neuro-ml-projects/head-cs-server/deep_pipe" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2019.1/system/python_stubs/-761325810" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/MyEnv/other/skoltech/neuro-ml-projects/head-cs-server" />
+    </jdk>
+  </component>
+</application>
