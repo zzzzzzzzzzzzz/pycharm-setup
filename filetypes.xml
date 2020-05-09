@@ -8,6 +8,7 @@
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
       <mapping pattern="weekly_recall.cfg" type="PLAIN_TEXT" />
+      <mapping pattern="model_crf_25d_visual" type="PLAIN_TEXT" />
       <mapping pattern="tgtoken" type="PLAIN_TEXT" />
       <mapping pattern=".hiverc" type="PLAIN_TEXT" />
       <mapping pattern="vktoken" type="PLAIN_TEXT" />
