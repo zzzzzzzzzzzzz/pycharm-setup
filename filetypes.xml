@@ -13,6 +13,7 @@
       <mapping pattern=".hiverc" type="PLAIN_TEXT" />
       <mapping pattern="vktoken" type="PLAIN_TEXT" />
       <mapping pattern=".centrc" type="PLAIN_TEXT" />
+      <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
