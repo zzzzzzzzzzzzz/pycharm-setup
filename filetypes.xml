@@ -11,6 +11,7 @@
       <mapping pattern="model_crf_25d_visual" type="PLAIN_TEXT" />
       <mapping pattern="tgtoken" type="PLAIN_TEXT" />
       <mapping pattern=".hiverc" type="PLAIN_TEXT" />
+      <mapping pattern="game_ids" type="PLAIN_TEXT" />
       <mapping pattern="vktoken" type="PLAIN_TEXT" />
       <mapping pattern=".centrc" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
