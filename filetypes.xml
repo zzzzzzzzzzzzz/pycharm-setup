@@ -20,6 +20,7 @@
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="prod" type="PLAIN_TEXT" />
       <mapping ext="conifg" type="Python" />
       <mapping ext="config" type="Python" />
       <mapping pattern="project_dm_desc_export_active_mobile_users_to_dmload" type="YAML" />
