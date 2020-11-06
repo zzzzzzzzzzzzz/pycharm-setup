@@ -3,26 +3,26 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="jl" type="JSON" />
-      <mapping pattern="patterns" type="PLAIN_TEXT" />
-      <mapping pattern="testsync" type="PLAIN_TEXT" />
-      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping pattern=".env.prod" type="PLAIN_TEXT" />
-      <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
-      <mapping pattern="weekly_recall.cfg" type="PLAIN_TEXT" />
-      <mapping pattern="model_crf_25d_visual" type="PLAIN_TEXT" />
-      <mapping pattern="tgtoken" type="PLAIN_TEXT" />
-      <mapping pattern=".hiverc" type="PLAIN_TEXT" />
       <mapping pattern="game_ids" type="PLAIN_TEXT" />
-      <mapping pattern="vktoken" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping pattern="tgtoken" type="PLAIN_TEXT" />
+      <mapping pattern="testsync" type="PLAIN_TEXT" />
+      <mapping pattern="weekly_recall.cfg" type="PLAIN_TEXT" />
       <mapping pattern=".centrc" type="PLAIN_TEXT" />
+      <mapping pattern="model_crf_25d_visual" type="PLAIN_TEXT" />
+      <mapping pattern=".hiverc" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
-      <mapping ext="pkl" type="PLAIN_TEXT" />
+      <mapping pattern=".env.prod" type="PLAIN_TEXT" />
+      <mapping pattern="patterns" type="PLAIN_TEXT" />
+      <mapping pattern=".env.dev" type="PLAIN_TEXT" />
+      <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
+      <mapping pattern="vktoken" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
-      <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
-      <mapping ext="conifg" type="Python" />
+      <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="config" type="Python" />
+      <mapping ext="conifg" type="Python" />
       <mapping pattern="project_dm_desc_export_active_mobile_users_to_dmload" type="YAML" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
