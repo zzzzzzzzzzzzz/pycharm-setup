@@ -4,15 +4,14 @@
     <extensionMap>
       <mapping ext="jl" type="JSON" />
       <mapping pattern="game_ids" type="PLAIN_TEXT" />
-      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="tgtoken" type="PLAIN_TEXT" />
       <mapping pattern="testsync" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="weekly_recall.cfg" type="PLAIN_TEXT" />
       <mapping pattern=".centrc" type="PLAIN_TEXT" />
       <mapping pattern="model_crf_25d_visual" type="PLAIN_TEXT" />
       <mapping pattern=".hiverc" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern=".env.prod" type="PLAIN_TEXT" />
       <mapping pattern="patterns" type="PLAIN_TEXT" />
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
