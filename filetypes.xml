@@ -17,6 +17,7 @@
       <mapping pattern=".env.dev" type="PLAIN_TEXT" />
       <mapping pattern="celerybeat-schedule" type="PLAIN_TEXT" />
       <mapping pattern="vktoken" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="pkl" type="PLAIN_TEXT" />
       <mapping ext="prod" type="PLAIN_TEXT" />
