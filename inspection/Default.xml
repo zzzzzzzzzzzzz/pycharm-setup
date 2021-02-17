@@ -3,7 +3,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="11">
+        <list size="12">
           <item index="0" class="java.lang.String" itemvalue="supervisor-win" />
           <item index="1" class="java.lang.String" itemvalue="beautifulsoup4" />
           <item index="2" class="java.lang.String" itemvalue="chardet" />
@@ -15,6 +15,7 @@
           <item index="8" class="java.lang.String" itemvalue="urllib3" />
           <item index="9" class="java.lang.String" itemvalue="ghostscript" />
           <item index="10" class="java.lang.String" itemvalue="centrifuge" />
+          <item index="11" class="java.lang.String" itemvalue="agenteur-utils" />
         </list>
       </value>
     </option>
