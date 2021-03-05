@@ -2,5 +2,7 @@
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
     <entry projectPath="$USER_HOME$/PycharmProjects/agenteur-etl" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/PycharmProjects/agenteur-utils" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/PycharmProjects/prediction_service" startUpFlag="FIRST" />
   </component>
 </application>
