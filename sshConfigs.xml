@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="cb.skoltech.ru" id="4cfd606c-d965-47e3-94f4-8fc2dbbb9f9d" port="22" customName="cb.skoltech.ru" nameFormat="CUSTOM" username="ddenisenko">
+        <option name="customName" value="cb.skoltech.ru" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
